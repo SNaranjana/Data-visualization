@@ -326,7 +326,7 @@ A negative value means the closing price decreased.
 
 ---
 
-# 12. 📉 Calculating Daily Loss
+# 12. Calculating Daily Loss
 
 Loss is calculated from the daily price change.
 
