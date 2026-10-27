@@ -320,10 +320,6 @@ This project provides practical experience in data preprocessing, exploratory da
 
 **Name:** NARANJAN S
 
-**Course:**  (BCA)
+**Course:** BCA
 
-**College:** Kamaraj College, Thoothukudi, Tamil Nadu
-
-**Project Domain:** Healthcare Data Analysis
-
-**Tools Used:** Python, Pandas, NumPy, Matplotlib, Seaborn, Google Colab
+**College:** Kamaraj College
