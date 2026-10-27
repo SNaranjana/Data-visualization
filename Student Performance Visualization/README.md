@@ -530,7 +530,7 @@ This is an observed association. It does not prove that test preparation alone c
 
 ---
 
-## 🖼️8. Project Visualizations
+## 8. Project Visualizations
 
 ### Average Scores by Parental Education
 
